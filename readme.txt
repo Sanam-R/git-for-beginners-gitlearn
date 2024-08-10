@@ -1,5 +1,5 @@
 Welcome to my git learning project!
 
-Author: Sanam Rai
+Author: Sanam bahadur rai
 
 Twitter: @san223
