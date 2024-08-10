@@ -1,4 +1,4 @@
-Welcome to my git learning project!
+Welcome to "Git for Beginners" learning project!
 
 Author: Sanam Rai
 
